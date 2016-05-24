@@ -1,0 +1,9 @@
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\Objects\bin\Debug\Objects.dll
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\Objects\bin\Debug\Objects.pdb
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\Objects\obj\Debug\Objects.dll
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\Objects\obj\Debug\Objects.pdb
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\Objects\bin\Debug\Objects.dll
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\Objects\bin\Debug\Objects.pdb
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\Objects\obj\Debug\Objects.csprojResolveAssemblyReference.cache
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\Objects\obj\Debug\Objects.dll
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\Objects\obj\Debug\Objects.pdb

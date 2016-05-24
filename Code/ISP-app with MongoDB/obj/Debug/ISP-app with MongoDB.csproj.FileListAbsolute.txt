@@ -1,0 +1,26 @@
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\ISP-app with MongoDB.exe.config
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\ISP-app with MongoDB.exe.manifest
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\ISP-app with MongoDB.application
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\ISP-app with MongoDB.exe
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\ISP-app with MongoDB.pdb
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\Logic.dll
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\MongoDB.Bson.dll
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\MongoDB.Driver.dll
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\Objects.dll
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\Backend.dll
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\Logic.pdb
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\Objects.pdb
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\MongoDB.Bson.xml
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\MongoDB.Driver.xml
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\bin\Debug\Backend.pdb
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\obj\Debug\ISP-app with MongoDB.csprojResolveAssemblyReference.cache
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\obj\Debug\ISP_app_with_MongoDB.Assign.resources
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\obj\Debug\ISP_app_with_MongoDB.Edit.resources
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\obj\Debug\ISP_app_with_MongoDB.Overview.resources
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\obj\Debug\ISP_app_with_MongoDB.Properties.Resources.resources
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\obj\Debug\ISP-app with MongoDB.csproj.GenerateResource.Cache
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\obj\Debug\ISP-app with MongoDB.exe.manifest
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\obj\Debug\ISP-app with MongoDB.application
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\obj\Debug\ISP-app with MongoDB.exe
+C:\Users\robbe\Source\Repos\1516_CSDB_DeGeyndtRobbe\labo04\Code\ISP-app with MongoDB\obj\Debug\ISP-app with MongoDB.pdb
